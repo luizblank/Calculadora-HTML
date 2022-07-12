@@ -1,0 +1,23 @@
+.save_button {
+    min-width: 80px;
+    max-width: 80px;
+    margin-bottom: 5px ;
+    border-radius: 0% !important;
+}
+
+.background {
+    background-color: black;
+}
+
+.pagina {
+    margin-top: 10%;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.btn{
+	box-shadow: none !important
+}
